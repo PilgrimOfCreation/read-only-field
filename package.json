@@ -1,11 +1,11 @@
 {
   "name": "com.pilgrim_of_creation.read_only_field",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Read Only Field",
   "description": "Make possible use properties as a read only field in the insperctor",
   "unity": "2022.3",
   "unityRelease": "7f1",
- "keywords": [
+  "keywords": [
     "Read Only"
   ],
   "author": {

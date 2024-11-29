@@ -1,3 +1,16 @@
 {
-	"name": "com.pilgrim_of_creation.read_only_field.editor"
+    "name": "com.pilgrim_of_creation.read_only_field.editor",
+    "rootNamespace": "PilgrimOfCreation.ReadOnlyField",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
