@@ -2,9 +2,7 @@
     "name": "com.pilgrim_of_creation.read_only_field.editor",
     "rootNamespace": "PilgrimOfCreation.ReadOnlyField",
     "references": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

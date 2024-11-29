@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using JetBrains.Annotations;
 using UnityEditor;
 using UnityEngine;
@@ -18,3 +19,4 @@ namespace PilgrimOfCreation.ReadOnlyField
         }
     }
 }
+#endif
